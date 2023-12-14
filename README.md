@@ -1,1 +1,2 @@
 # Garten-im-Glueck
+Zu Beginn erscheint eine Kuh mit Gießkanne im Garten, aber es gibt nur eine Blume. Alle paar Sekunden wird eine weitere Blume eingeblendet oder eine der Blumen beginnt zu verwelken. Du bewegst die Kuh mit den Pfeiltasten zu der welken Blume und drückst die Leertaste, um sie zu gießen. Bleibt eine Blume länger als Zeh Sekunden welk, endet das Spiel. Aber wenn der Garten länger als 15 Sekunden zufrieden bleibt, mutiert eine der Blumen zur Fangblume und versucht, die Kuh zu fangen.
